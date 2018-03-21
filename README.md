@@ -15,7 +15,7 @@ Die Development Server werden jeden Montag morgen wenn notig geupdatet.<br>
 Uhrzeit ist NICHT festgelegt.
 
 ## Zugriff auf das ACP
-Um sich als Admin oder Mod anzumelden, reicht es nicht einfach einen knopf zu drücken. Wir haben uns dazu entschlossen die Knopf von der Seite zu entfernen da dieser ein Sicherheitsrisiko ist.
+Um sich als Admin oder Mod anzumelden, reicht es nicht einfach einen Knopf zu drücken. Wir haben uns dazu entschlossen den Knopf von der Seite zu entfernen da dieser ein Sicherheitsrisiko ist.
 <br>
 Login as Admin: <br>
 1. Geh zur homepage (bornerline.com / bornerline.000webhostapp.com) 
