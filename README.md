@@ -17,12 +17,18 @@ Uhrzeit ist NICHT festgelegt.
 ## Zugriff auf das ACP
 Um sich als Admin oder Mod anzumelden, reicht es nicht einfach einen Knopf zu drücken. Wir haben uns dazu entschlossen den Knopf von der Seite zu entfernen da dieser ein Sicherheitsrisiko ist.
 <br>
+<details>
+   <summary><br>
 Login as Admin: <br>
-1. Geh zur homepage (bornerline.com / bornerline.000webhostapp.com) 
+1. Geh zur homepage (bornerline.com / bornerline.000webhostapp.com) <br>
+     
 ![Bornerline Homepage](https://vignette.wikia.nocookie.net/onelovelamusika/images/a/a1/Homepage.png/revision/latest/scale-to-width-down/1000?cb=20180306141239)<br>
 
 2. Click auf die URL und füge folgens hinzu :<br>
 ...hostapp.com<strong>/wp-admin</strong><br>
 Dann sollte sich folgende Seite öffnen:<br>
+
 ![Bornerline Login Page](https://vignette.wikia.nocookie.net/onelovelamusika/images/1/1c/Login-window.png/revision/latest/scale-to-width-down/693?cb=20180306141537)<br>
 4. Gebe deinen Benutzernamen und dein Passwort ein click auf : "Anmelden" 
+  </summary>
+</details>
