@@ -1,4 +1,4 @@
-[Title Banner](https://preview.ibb.co/eL9k5H/banner.jpg) <br>
+![Title Banner](https://i.imgur.com/4wAloGK.jpg) <br>
 
 ## Willkommen zum Bornerline Web Dokumentation
 Hier werden alle Wichtigen schritte die du benotigst aufgefuhrt.
