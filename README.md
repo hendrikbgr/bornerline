@@ -14,7 +14,7 @@ Dev Forum: [bornerline.000webhostapp.com/forum](http://bornerline.000webhostapp.
 Die Development Server werden jeden Montag morgen wenn notig geupdatet.<br>
 Uhrzeit ist NICHT festgelegt.
 
-## Zugriff auf das ACP
+## Login als Admin / Mod
 Um sich als Admin oder Mod anzumelden, reicht es nicht einfach einen Knopf zu drücken. Wir haben uns dazu entschlossen den Knopf von der Seite zu entfernen da dieser ein Sicherheitsrisiko ist.
 <br>
 <details>
