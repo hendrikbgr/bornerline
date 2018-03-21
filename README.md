@@ -42,6 +42,7 @@ Falls Sie nicht wissen wie man ein Ticket erstellt bitte click [hier](https://he
 <details>
    <summary>Template</summary>
    Wenn du ein Problem mit der Seite oder eine Frage hast kannst du diese hier stellen. Bitte verwende dazu jedoch das unten aufgelistete Problem Template. Dies macht es einfacher für uns den Fehler zu finden und zu beseitigen.
+   <hr>
    <details>
       <summary>Issue Template - English</summary>
       
