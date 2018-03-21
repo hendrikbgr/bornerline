@@ -23,11 +23,14 @@ Login as Admin: <br>
 1. Geh zur homepage (bornerline.com / bornerline.000webhostapp.com) <br>
      
 ![Bornerline Homepage](https://vignette.wikia.nocookie.net/onelovelamusika/images/a/a1/Homepage.png/revision/latest/scale-to-width-down/1000?cb=20180306141239)<br>
+> This is the Main Homepage (Background Image may change over time)<br>
+> Dies ist die Hauptseite (Der Hintergrund kann sich ueber Zeit aendern)<br>
 
 2. Click auf die URL und füge folgens hinzu :<br>
 ...hostapp.com<strong>/wp-admin</strong><br>
 Dann sollte sich folgende Seite öffnen:<br>
 
 ![Bornerline Login Page](https://vignette.wikia.nocookie.net/onelovelamusika/images/1/1c/Login-window.png/revision/latest/scale-to-width-down/693?cb=20180306141537)<br>
+> This is the Main Homepage (Login Style and Looking can change over time)
 4. Gebe deinen Benutzernamen und dein Passwort ein click auf : "Anmelden" 
 </details>
