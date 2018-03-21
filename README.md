@@ -18,7 +18,7 @@ Uhrzeit ist NICHT festgelegt.
 Um sich als Admin oder Mod anzumelden, reicht es nicht einfach einen Knopf zu drücken. Wir haben uns dazu entschlossen den Knopf von der Seite zu entfernen da dieser ein Sicherheitsrisiko ist.
 <br>
 <details>
-   <summary><br>
+   <summary>Login as Admin/Mod</summary><br>
 Login as Admin: <br>
 1. Geh zur homepage (bornerline.com / bornerline.000webhostapp.com) <br>
      
@@ -30,5 +30,4 @@ Dann sollte sich folgende Seite öffnen:<br>
 
 ![Bornerline Login Page](https://vignette.wikia.nocookie.net/onelovelamusika/images/1/1c/Login-window.png/revision/latest/scale-to-width-down/693?cb=20180306141537)<br>
 4. Gebe deinen Benutzernamen und dein Passwort ein click auf : "Anmelden" 
-  </summary>
 </details>
