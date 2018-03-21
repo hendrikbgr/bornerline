@@ -36,6 +36,30 @@ Dann sollte sich folgende Seite öffnen:<br>
 </details>
 <br>
 
+## Beiträge erstellen
+Nachdem man sich als Admin / Mod angemeldet hat, kann man sehr einfach neue Beiträge erstellen oder Bearbeiten.
+<br>
+<details>
+   <summary>Beiträge erstellen</summary><br>
+Nach dem login als Admin / Mod solltest du auf dieser Seite landen: <br>
+   
+![Bornerline Homepage (ACP)](https://lh6.googleusercontent.com/ksdoUstr2aYprljQ53fO_C6l3i_QtWRnO5qXDy3T7fz7ZuibjW0jdxUqOBGbYmo8rFV116EqV4YsNK0AC0PR=w3836-h1966)<br>
+> Dies ist die Homepage des ACP (Admin Controll Panel)<br>
+
+2. Click auf "Neu" (oben links im reiter) :<br>
+
+![Neu - Beitrag](https://lh4.googleusercontent.com/PEnocqxnPZgD-LHmft9z2fjHvK5p3l-wHKdqwkLc8i0KtYu8EoAdzU40hRrV_elTb5yS0cN9ZcysrZzh2UG-=w3836-h1966)<br>
+> Hier kannst du "Neue" Medien / Beitrage erstellen.<br>
+
+4. Click auf Beitrag um einen neuen Beitrag zu erstellen.
+<br>
+5. Dann solltest du auf der Folgenden Seite landen:<br>
+
+![Neu - Beitrag](https://lh5.googleusercontent.com/sS8GEjv3A4sGTO2q0K4zqdNbLxktjGJvxopIbVoltlKc4M9UuZXhnOV0UYehj33YZKAZdOCWx6uo-8AbAQq4=w3836-h1966)<br>
+> Hier kannst du Neue Beitrage erstellen.<br>
+</details>
+<br>
+
 ## Template zur erstellung von Problemmeldungen
 Dies ist ein Template zur erstellung von Problem Tickets.<br>
 Falls Sie nicht wissen wie man ein Ticket erstellt bitte click [hier](https://help.github.com/articles/creating-an-issue/).
