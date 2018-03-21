@@ -34,3 +34,52 @@ Dann sollte sich folgende Seite öffnen:<br>
 > This is the Main Homepage (Login Style and Looking can change over time)
 4. Gebe deinen Benutzernamen und dein Passwort ein click auf : "Anmelden" 
 </details>
+<br>
+
+## Template zur erstellung von Problemmeldungen
+Dies ist ein Template zur erstellung von Problem Tickets.<br>
+Falls Sie nicht wissen wie man ein Ticket erstellt bitte click [hier](https://help.github.com/articles/creating-an-issue/).
+<details>
+   <summary>Template</summary>
+   Wenn du ein Problem mit der Seite oder eine Frage hast kannst du diese hier stellen. Bitte verwende dazu jedoch das unten aufgelistete Problem Template. Dies macht es einfacher für uns den Fehler zu finden und zu beseitigen.
+   <details>
+      <summary>Issue Template - English</summary>
+      
+   ### Subject of the issue
+   Describe your issue here.
+
+   ### Your environment
+   * version of angular-translate
+   * version of angular
+   * which browser and its version
+
+   ### Steps to reproduce
+   Tell us how to reproduce this issue.
+
+   ### Expected behaviour
+   Tell us what should happen
+
+   ### Actual behaviour
+   Tell us what happens instead
+   </details>
+   <details>
+      <summary>Issue Template - Deutsch</summary>
+      
+   ### Title des Porblems
+   Beschreibe dein Problem hier.
+
+   ### Deine Umgebung
+   * welche version der webseite verwendest du?
+   * welchen Browser nutzt du und welche version?
+   * wann ist der Fehler aufgetreten?
+
+   ### Schritte zur Reproduktion
+   Wie können wir den Fehler nachstellen?
+
+   ### Was sollte passieren
+   Sag uns was hatte passieren sollen.
+
+   ### Was eigentlich passiert
+   Sag uns was eigentlich passiert ist.
+   </details>
+</details>
