@@ -1,11 +1,11 @@
 ![Title Banner](https://i.imgur.com/W8gz0Wv.jpg) <br>
 
-## Willkommen zum Bornerline Web Dokumentation
-Hier werden alle Wichtigen schritte die du benotigst aufgefuhrt.
-Bei Fragen oder bei Sachen die nicht in dieser Dokumentaion aufgefuhrt sind bitte
+## Willkommen zur Bornerline Web Dokumentation
+Hier werden alle Wichtigen schritte die du benötigst aufgeführt.
+Bei Fragen oder bei Sachen die nicht in dieser Dokumentaion aufgeführt sind bitte
 kontaktiere: hendrik.postfach@gmail.com oder onelovelamusika@gmail.com
 
-Wir werden dann dafur sorgen das die Frage beantwortet oder der Dokumentation hinzugefugt wird.
+Wir werden dann dafur sorgen das die Frage beantwortet oder der Dokumentation hinzugefügt wird.
 
 
 ## Webseiten links
@@ -13,7 +13,7 @@ Hier werden alle relevanten links (accesspoints) aufgelistet. <br>
 Dev Server: [bornerline.000webhostapp.com](http://bornerline.000webhostapp.com/) <br>
 Dev Forum: [bornerline.000webhostapp.com/forum](http://bornerline.000webhostapp.com/forum/index.php)
 
-Die Development Server werden jeden Montag morgen wenn notig geupdatet.<br>
+Die Development Server werden jeden Montag morgen wenn nötig geupdatet.<br>
 Uhrzeit ist NICHT festgelegt.
 
 ## Login als Admin / Mod
