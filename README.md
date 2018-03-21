@@ -43,19 +43,19 @@ Nachdem man sich als Admin / Mod angemeldet hat, kann man sehr einfach neue Beit
    <summary>Beiträge erstellen</summary><br>
 Nach dem login als Admin / Mod solltest du auf dieser Seite landen: <br>
    
-![Bornerline Homepage (ACP)](https://ibb.co/kRhhHx][img]https://preview.ibb.co/dyArAH/Screen_Shot_2018_03_21_at_14_39_04.png)<br>
+![Bornerline Homepage (ACP)](https://preview.ibb.co/dyArAH/Screen_Shot_2018_03_21_at_14_39_04.png)<br>
 > Dies ist die Homepage des ACP (Admin Controll Panel)<br>
 
 2. Click auf "Neu" (oben links im reiter) :<br>
 
-![Neu - Beitrag](https://ibb.co/itv2Hx][img]https://preview.ibb.co/gDbWAH/Screen_Shot_2018_03_21_at_14_39_23.png)<br>
+![Neu - Beitrag](https://preview.ibb.co/gDbWAH/Screen_Shot_2018_03_21_at_14_39_23.png)<br>
 > Hier kannst du "Neue" Medien / Beitrage erstellen.<br>
 
 4. Click auf Beitrag um einen neuen Beitrag zu erstellen.
 <br>
 5. Dann solltest du auf der Folgenden Seite landen:<br>
 
-![Neu - Beitrag](https://ibb.co/fymnjc][img]https://preview.ibb.co/kE7Gcx/Screen_Shot_2018_03_21_at_14_39_31.png)<br>
+![Neu - Beitrag](https://preview.ibb.co/kE7Gcx/Screen_Shot_2018_03_21_at_14_39_31.png)<br>
 > Hier kannst du Neue Beitrage erstellen.<br>
 </details>
 <br>
